@@ -40,7 +40,9 @@ A mobile application that helps track and reduce carbon emissions in office envi
 ## 📷 Preview
 
 ![Home Page](screenshots/Home%20Page.png)
-
+![Reward Page](screenshots/Reward%20Screen.png)
+![Suggestion Page](screenshots/Suggestion%20Screen.png)
+![Trend Page](screenshots/Trend%20Screen(Show%20graph%20of%20Carbon%20emission%20of%20User).png)
 
 ---
 
@@ -62,7 +64,7 @@ Follow these steps to set up and run the Green Office Tracker app on your local 
 1. **Clone the repository**
 
 bash
-git clone https://github.com/your-username/green-office-tracker.git
+git clone [https://github.com/your-username/green-office-tracker.git](https://github.com/Ritesh-9004/Green-Office-Tracker.git)
 cd green-office-tracker
 
 2. **Install dependencies**
@@ -89,8 +91,9 @@ cd green-office-tracker
   -flutter clean
   -flutter pub get
   -flutter run
+
 ---
-🤝 Contributing
+🤝 **Contributing**
     Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated!
 
   **Steps to Contribute**:
