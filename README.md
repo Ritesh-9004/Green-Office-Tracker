@@ -39,8 +39,9 @@ A mobile application that helps track and reduce carbon emissions in office envi
 
 ## 📷 Preview
 
-![Home Page](screenshots/Home%20Page.png) **HOME PAGE**  ![Reward Page](screenshots/Reward%20Screen.png) **REWARD PAGE**
-![Suggestion Page](screenshots/Suggestion%20Screen.png)  **SUGGESTION PAGE**  ![Trend Page](screenshots/Trend%20Screen(Show%20graph%20of%20Carbon%20emission%20of%20User).png)  **TREND PAGE**
+| ![Home Page](screenshots/Home%20Page.png) | ![Reward Page](screenshots/Reward%20Screen.png) | ![Suggestion Page](screenshots/Suggestion%20Screen.png) | ![Trend Page](screenshots/Trend%20Screen%28Show%20graph%20of%20Carbon%20emission%20of%20User%29.png) |
+|:----------------------------------------:|:----------------------------------------------:|:------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|
+| **HOME PAGE**                             | **REWARD PAGE**                                 | **SUGGESTION PAGE**                                     | **TREND PAGE**                                                                                                           |
 
 ---
 
@@ -70,25 +71,25 @@ cd green-office-tracker
 3. **Enter "flutter pub get" in Terminal**
 
 4. **Add emission factor JSON**
-      Ensure emission_factors.json is placed under the assets folder:
-         _assets/emission_factors.json_
+     - Ensure emission_factors.json is placed under the assets folder:
+        - _assets/emission_factors.json_
 
 
 6. **And update pubspec.yaml to include**:
    
-     flutter:
-        assets:
+    - flutter:
+       - assets:
           - android/assets/emission_factors.json
    
 7. **Run the App**
    
--To run on an emulator or a connected device, use:
-    -flutter run
+- To run on an emulator or a connected device, use:
+    - flutter run
   
--If you encounter issues, try cleaning and rebuilding:
-  -flutter clean
-  -flutter pub get
-  -flutter run
+- If you encounter issues, try cleaning and rebuilding:
+  - flutter clean
+  - flutter pub get
+  - flutter run
 
 ---
 🤝 **Contributing**
@@ -109,6 +110,14 @@ cd green-office-tracker
 6. Open a Pull Request
 
 ---
+## 🧑‍💻 Team
+- [Sanket Lohakare](https://github.com/Sank-et-Git)
+- [Ritesh Dahake](https://github.com/Ritesh-9004)
+- Rashi Bhoyar
+- Rishita Tarar
+
+---
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
