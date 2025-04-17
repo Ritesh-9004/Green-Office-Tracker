@@ -33,7 +33,7 @@ A mobile application that helps track and reduce carbon emissions in office envi
 - **Firebase** (optional) – Can be integrated for cloud sync or authentication
 - **REST API** – For dynamic emission factor loading
 - **percent_indicator** – For circular progress display
-- **liquid_progress_indicator** *(optional)* – For animated water-style fill effect
+
 
 ---
 
