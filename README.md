@@ -40,9 +40,7 @@ A mobile application that helps track and reduce carbon emissions in office envi
 ## 📷 Preview
 
 ![screenshots](screenshots/Home Page.png)
-![screenshots](screenshots/Reward Screen.png)
-![screenshots](Suggestion Screen.png)
-![screenshots](Trend Screen(Show graph of Carbon emission of User).png)
+
 ---
 
 ## 🛠️ Getting Started
@@ -90,7 +88,7 @@ cd green-office-tracker
   -flutter clean
   -flutter pub get
   -flutter run
-
+---
 🤝 Contributing
     Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated!
 
