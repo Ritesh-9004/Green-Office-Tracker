@@ -39,9 +39,10 @@ A mobile application that helps track and reduce carbon emissions in office envi
 
 ## 📷 Preview
 
-![Home Page](screenshots/Home%20Page.png) ![Reward Page](screenshots/Reward%20Screen.png)
-![Suggestion Page](screenshots/Suggestion%20Screen.png)
-![Trend Page](screenshots/Trend%20Screen(Show%20graph%20of%20Carbon%20emission%20of%20User).png)
+![Home Page](screenshots/Home%20Page.png) **HOME PAGE**
+![Reward Page](screenshots/Reward%20Screen.png) **REWARD PAGE**
+![Suggestion Page](screenshots/Suggestion%20Screen.png)  **SUGGESTION PAGE**
+![Trend Page](screenshots/Trend%20Screen(Show%20graph%20of%20Carbon%20emission%20of%20User).png)  **TREND PAGE**
 
 ---
 
