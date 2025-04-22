@@ -113,7 +113,7 @@ cd green-office-tracker
 ## 🧑‍💻 Team
 - [Sanket Lohakare](https://github.com/Sank-et-Git)
 - [Ritesh Dahake](https://github.com/Ritesh-9004)
-- Rashi Bhoyar
+- [Rashi Bhoyar](https://github.com/RashiB04)
 - Rishita Tarar
 
 ---
