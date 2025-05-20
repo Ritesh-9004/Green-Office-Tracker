@@ -1,6 +1,21 @@
-# 🌱 Green Office Tracker
+<div align="center">
 
-A mobile application that helps track and reduce carbon emissions in office environments. The app allows users to log their daily activities — such as commute, electricity use (HVAC, lights, computer), and view their total carbon footprint in a visual, engaging way. 🌍
+  <h1>🌱 Green Office Tracker</h1>
+
+ <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt=" Status">
+<img src="https://img.shields.io/badge/Flutter-blue?logo=flutter" alt="Flutter">
+<img src="https://img.shields.io/badge/Dart-%2317B8C4.svg?logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/github/license/Ritesh-9004/Green-Office-Tracker" alt="License">
+
+
+</div>
+
+## 
+
+### ⚠️ **Note:** This project was submitted as a solution to a hackathon problem statement. It is not a production-ready application.
+
+##
+## A mobile application that helps track and reduce carbon emissions in office environments. The app allows users to log their daily activities — such as commute, electricity use (HVAC, lights, computer), and view their total carbon footprint in a visual, engaging way. 🌍
 
 ---
 
@@ -18,7 +33,7 @@ A mobile application that helps track and reduce carbon emissions in office envi
 - 🔽 **Dropdown Selection for Commute Mode**  
   Easily choose between car, bus, train, flight, etc. to get more accurate results.
 
-- ☁️ **Dynamic Emission Factors**  
+- ☁️ **Fetched from remote API**  
   Fetch emission values from a remote API to ensure calculations are up to date.
 
 - 🧠 **Smart UI**  
