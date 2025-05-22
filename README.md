@@ -45,7 +45,6 @@
 
 - **Flutter** – Cross-platform mobile framework
 - **Dart** – Language used for Flutter
-- **Firebase** (optional) – Can be integrated for cloud sync or authentication
 - **REST API** – For dynamic emission factor loading (Emission factors are fetched from a remote API to ensure data is always up to date.)
 - **percent_indicator** – For circular progress display
 
