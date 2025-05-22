@@ -46,7 +46,7 @@
 - **Flutter** – Cross-platform mobile framework
 - **Dart** – Language used for Flutter
 - **Firebase** (optional) – Can be integrated for cloud sync or authentication
-- **REST API** – For dynamic emission factor loading
+- **REST API** – For dynamic emission factor loading (Emission factors are fetched from a remote API to ensure data is always up to date.)
 - **percent_indicator** – For circular progress display
 
 
@@ -78,7 +78,7 @@ Follow these steps to set up and run the Green Office Tracker app on your local 
 1. **Clone the repository**
 
 bash
-git clone [https://github.com/your-username/green-office-tracker.git](https://github.com/Ritesh-9004/Green-Office-Tracker.git)
+git clone [https://github.com/Ritesh-9004/green-office-tracker.git](https://github.com/Ritesh-9004/Green-Office-Tracker.git)
 cd green-office-tracker
 
 2. **Install dependencies**
